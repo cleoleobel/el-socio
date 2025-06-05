@@ -129,3 +129,24 @@
 [05Jun2025 19:23:41.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo was shot by Skeleton
 [05Jun2025 19:28:14.367] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cleoleo lost connection: Disconnected
 [05Jun2025 19:28:14.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo left the game
+[05Jun2025 19:28:44.818] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@71bed76a
+[05Jun2025 19:28:44.824] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cleoleo[/127.183.119.137:47907] logged in with entity id 3628 at (352.52973952007306, 63.0, 30.62670767669832)
+[05Jun2025 19:28:44.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo joined the game
+[05Jun2025 19:30:14.865] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cleoleo lost connection: Disconnected
+[05Jun2025 19:30:14.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo left the game
+[05Jun2025 19:30:18.712] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@435ff17[id=<null>,name=cleoleo,properties={},legacy=false] (/127.183.119.137:55631) lost connection: Disconnected
+[05Jun2025 19:31:08.755] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1f8cad19[id=<null>,name=seyder,properties={},legacy=false] (/127.146.3.9:36291) lost connection: Disconnected
+[05Jun2025 19:32:21.755] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3f30b4e1
+[05Jun2025 19:32:21.758] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: seyder[/127.146.3.9:51835] logged in with entity id 3777 at (223.5, 65.0, -95.5)
+[05Jun2025 19:32:21.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: seyder joined the game
+[05Jun2025 19:32:26.468] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7d13693a
+[05Jun2025 19:32:26.472] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cleoleo[/127.183.119.137:48307] logged in with entity id 3883 at (398.5764730292116, 64.0, 45.42726436511983)
+[05Jun2025 19:32:26.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo joined the game
+[05Jun2025 19:36:05.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: seyder was slain by Zombie
+[05Jun2025 19:36:26.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo was slain by Zombie
+[05Jun2025 19:36:31.466] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cleoleo lost connection: Disconnected
+[05Jun2025 19:36:31.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo left the game
+[05Jun2025 19:36:31.864] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Librarian'/228, l='ServerLevel[world]', x=383.70, y=65.00, z=15.49] died, message: 'Librarian was slain by Zombie'
+[05Jun2025 19:36:57.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: seyder has made the advancement [Sweet Dreams]
+[05Jun2025 19:37:14.864] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: seyder lost connection: Disconnected
+[05Jun2025 19:37:14.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: seyder left the game

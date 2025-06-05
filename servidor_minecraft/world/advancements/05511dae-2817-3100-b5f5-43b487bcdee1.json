@@ -5,9 +5,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_white_wool": "2025-06-05 19:18:04 +0000"
+      "has_porkchop": "2025-06-05 19:10:17 +0000"
     },
     "done": true
   },
@@ -17,9 +17,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "has_porkchop": "2025-06-05 19:10:17 +0000"
+      "has_white_wool": "2025-06-05 19:18:04 +0000"
     },
     "done": true
   },
@@ -89,9 +89,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_white_wool": "2025-06-05 19:18:04 +0000"
+      "slept_in_bed": "2025-06-05 19:10:35 +0000"
     },
     "done": true
   },
@@ -107,13 +107,7 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-05 19:10:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-06-05 19:18:04 +0000"
     },
@@ -125,21 +119,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-05 19:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-05 19:11:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-06-05 19:18:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-05 19:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-05 19:18:04 +0000"
     },
     "done": true
   },
@@ -155,15 +155,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2025-06-05 19:18:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-05 19:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-06-05 19:18:04 +0000"
     },
     "done": true
   },
@@ -203,12 +203,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-05 19:25:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-05 19:23:56 +0000",
@@ -220,6 +214,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-06-05 19:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-05 19:25:04 +0000"
     },
     "done": true
   },
@@ -273,6 +273,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-05 19:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-06-05 19:18:04 +0000"
@@ -282,12 +288,6 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-06-05 19:18:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-06-05 19:15:30 +0000"
     },
     "done": true
   },
@@ -309,15 +309,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2025-06-05 19:15:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-06-05 19:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-06-05 19:15:30 +0000"
     },
     "done": true
   },

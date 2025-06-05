@@ -554,3 +554,9 @@
 [05Jun2025 19:07:46.382] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cleoleo[/127.183.119.137:49095] logged in with entity id 447 at (227.5, 64.0, -102.5)
 [05Jun2025 19:07:46.392] [Server thread/DEBUG] [net.minecraftforge.network.NetworkFilters/]: Injected net.minecraftforge.network.ForgeConnectionNetworkFilter@46c688bb into net.minecraft.network.NetworkManager@58142b3a
 [05Jun2025 19:07:46.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo joined the game
+[05Jun2025 19:08:58.879] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 19:08:58.883] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 19:10:35.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo has made the advancement [Sweet Dreams]
+[05Jun2025 19:11:01.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo has made the advancement [Monster Hunter]
+[05Jun2025 19:13:59.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 19:13:59.280] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

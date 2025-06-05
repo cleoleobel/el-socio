@@ -124,3 +124,5 @@
 [05Jun2025 19:07:46.372] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3020795c
 [05Jun2025 19:07:46.382] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: cleoleo[/127.183.119.137:49095] logged in with entity id 447 at (227.5, 64.0, -102.5)
 [05Jun2025 19:07:46.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo joined the game
+[05Jun2025 19:10:35.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo has made the advancement [Sweet Dreams]
+[05Jun2025 19:11:01.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo has made the advancement [Monster Hunter]

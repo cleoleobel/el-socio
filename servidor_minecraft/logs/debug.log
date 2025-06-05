@@ -560,3 +560,10 @@
 [05Jun2025 19:11:01.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo has made the advancement [Monster Hunter]
 [05Jun2025 19:13:59.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [05Jun2025 19:13:59.280] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 19:18:59.234] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 19:18:59.237] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 19:23:41.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo was shot by Skeleton
+[05Jun2025 19:23:59.138] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[05Jun2025 19:23:59.142] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[05Jun2025 19:28:14.367] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: cleoleo lost connection: Disconnected
+[05Jun2025 19:28:14.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: cleoleo left the game
